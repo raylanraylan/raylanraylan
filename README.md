@@ -10,8 +10,8 @@
 
 ### 原生Javascript版本
 https://raylanraylan.github.io/todolist_VanillaJS/
-原始碼：https://github.com/raylanraylan/todolist_VanillaJS
+- 原始碼：https://github.com/raylanraylan/todolist_VanillaJS
 
 ### Vue3版本
 https://raylanraylan.github.io/todolist_Vue3/
-原始碼：https://github.com/raylanraylan/todolist_Vue3
+- 原始碼：https://github.com/raylanraylan/todolist_Vue3
