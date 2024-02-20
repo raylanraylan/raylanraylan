@@ -1,7 +1,7 @@
 # 練習作品
 
 ## 網頁切版
-- 展示：https://raylanraylan.github.io/layout/
+- 展示：https://raylanraylan.github.io/T6__layout/
 - 原始碼：https://github.com/raylanraylan/layout
 
 
